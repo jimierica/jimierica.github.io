@@ -1,32 +1,19 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+1. 主題簡介：製作類似Netflix首頁的畫面，每部戲劇都只有劇照、名稱要由游標點選才能看到
+(1) 動機：因為我平時喜歡看很多戲劇與影片，使用後發現Netflix首頁非常好用，會讓觀眾期待未知的每部劇
+(2) 取名：從最喜歡的角色發想，Nairobic是從Money Heist這部西班牙劇中的角色名稱產生
+(3) 類別：目前有Meme、Anime、Series、Diss RBL四種類別各三題，未來希望擴大成更多類別、更多題目
 
+2. 使用方式
+(1) 於About Nairobic!中介紹
+(2) 在Category下選擇喜歡的一個主題，點入後點選和圖片最相關的選項
+(3) 猜圖片是由哪部劇出現的、或哪位名人說的，每類別回答三題選擇題即成功
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+3. 技術簡介
+(1) 主頁由HTML、CSS、JavaScript(jQuery)完成，如按鈕、移動的背景、表單回收意見等
+(2) 問題頁由HTML、CSS完成，主要由已編輯的圖片和選項呈現
+(3) 未來希望為錯誤選項建立陣列後隨機取出，提升問題難度
+(4) 由於每頁選項必須出現對應圖片的正確選項，因此希望同為照片、正確答案建立陣列隨機選題
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+4. 更多特色
+(1) 製作過程中看了很久的影片與評論，要找出大家看得懂但不能太簡單的題目
+(2) 這個遊戲隨時可以客製化添加分類，多元性高且方便閱讀
